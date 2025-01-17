@@ -268,3 +268,48 @@
 2025-01-16 17:59:47.126 | INFO     | __main__:main:114 - I just saw a story! It was weird.
 2025-01-16 17:59:50.132 | INFO     | __main__:main:114 - I just loved a meme! It was funny.
 2025-01-16 17:59:53.134 | INFO     | __main__:main:114 - I just saw a movie! It was funny.
+2025-01-16 18:24:22.780 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs/project_log.log
+2025-01-16 18:24:22.781 | INFO     | __main__:main:106 - START producer...
+2025-01-16 18:24:22.781 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-16 18:24:22.781 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-16 18:24:22.781 | INFO     | __main__:main:114 - During my free time I read a trick! It was tiring.
+2025-01-16 18:24:25.786 | INFO     | __main__:main:114 - During my free time I designed a story! It was tiring.
+2025-01-16 18:24:28.790 | INFO     | __main__:main:114 - During my free time I tried a book! It was exhausting.
+2025-01-16 18:24:31.791 | INFO     | __main__:main:114 - During my free time I read a snack! It was weird.
+2025-01-16 18:24:34.796 | INFO     | __main__:main:114 - During my free time I played a map! It was boring.
+2025-01-16 18:24:37.799 | INFO     | __main__:main:114 - During my free time I tried a meal! It was hilarious.
+2025-01-16 18:24:40.803 | INFO     | __main__:main:114 - During my free time I played a book! It was boring.
+2025-01-16 18:24:43.807 | INFO     | __main__:main:114 - During my free time I played a book! It was weird.
+2025-01-16 18:24:46.812 | INFO     | __main__:main:114 - During my free time I grabbed a meal! It was exhausting.
+2025-01-16 18:24:49.815 | INFO     | __main__:main:114 - During my free time I played a snack! It was weird.
+2025-01-16 18:24:52.821 | INFO     | __main__:main:114 - During my free time I grabbed a meal! It was exciting.
+2025-01-16 18:24:55.824 | INFO     | __main__:main:114 - During my free time I tried a trick! It was weird.
+2025-01-16 18:24:58.829 | INFO     | __main__:main:114 - During my free time I played a trick! It was hilarious.
+2025-01-16 18:25:01.831 | INFO     | __main__:main:114 - During my free time I found a book! It was tiring.
+2025-01-16 18:25:04.833 | INFO     | __main__:main:114 - During my free time I designed a meal! It was tiring.
+2025-01-16 18:25:06.665 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs/project_log.log
+2025-01-16 18:25:06.665 | INFO     | __main__:main:68 - START...
+2025-01-16 18:25:06.665 | INFO     | __main__:main:74 - Reading file located at logs/project_log.log.
+2025-01-16 18:25:07.836 | INFO     | __main__:main:114 - During my free time I tried a book! It was exhausting.
+2025-01-16 18:25:10.842 | INFO     | __main__:main:114 - During my free time I grabbed a sport! It was exhausting.
+2025-01-16 18:25:13.848 | INFO     | __main__:main:114 - During my free time I designed a snack! It was tiring.
+2025-01-16 18:25:16.853 | INFO     | __main__:main:114 - During my free time I found a snack! It was fulfilling.
+2025-01-16 18:25:19.857 | INFO     | __main__:main:114 - During my free time I read a snack! It was fulfilling.
+2025-01-16 18:25:22.858 | INFO     | __main__:main:114 - During my free time I grabbed a meal! It was weird.
+2025-01-16 18:25:25.863 | INFO     | __main__:main:114 - During my free time I grabbed a snack! It was tiring.
+2025-01-16 18:25:28.867 | INFO     | __main__:main:114 - During my free time I found a book! It was tiring.
+2025-01-16 18:25:31.872 | INFO     | __main__:main:114 - During my free time I designed a snack! It was weird.
+2025-01-16 18:25:34.876 | INFO     | __main__:main:114 - During my free time I created a story! It was hilarious.
+2025-01-16 18:25:37.878 | INFO     | __main__:main:114 - During my free time I created a map! It was tiring.
+2025-01-16 18:25:40.881 | INFO     | __main__:main:114 - During my free time I grabbed a story! It was hilarious.
+2025-01-16 18:25:43.887 | INFO     | __main__:main:114 - During my free time I played a story! It was boring.
+2025-01-16 18:25:46.892 | INFO     | __main__:main:114 - During my free time I shared a meal! It was fun.
+2025-01-16 18:25:49.898 | INFO     | __main__:main:114 - During my free time I shared a story! It was tiring.
+2025-01-16 18:25:52.900 | INFO     | __main__:main:114 - During my free time I played a meal! It was hilarious.
+2025-01-16 18:25:55.901 | INFO     | __main__:main:114 - During my free time I designed a book! It was exciting.
+2025-01-16 18:25:58.904 | INFO     | __main__:main:114 - During my free time I found a map! It was fulfilling.
+2025-01-16 18:26:01.910 | INFO     | __main__:main:114 - During my free time I created a trick! It was exhausting.
+2025-01-16 18:26:04.916 | INFO     | __main__:main:114 - During my free time I found a map! It was fun.
+2025-01-16 18:26:07.922 | INFO     | __main__:main:114 - During my free time I found a trick! It was hilarious.
+2025-01-16 18:26:10.926 | INFO     | __main__:main:114 - During my free time I grabbed a map! It was boring.
+2025-01-16 18:26:13.931 | INFO     | __main__:main:114 - During my free time I designed a snack! It was boring.
