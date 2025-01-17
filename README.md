@@ -1,4 +1,7 @@
-# buzzline-01-case
+# Cole Nollette
+## 44-671 Module 1
+## 1/16/25
+## Title: buzzline-01-nollette
 
 This project introduces streaming data. 
 The Python language includes generators - we'll use this feature to generate some streaming buzzline messages. 
@@ -63,14 +66,7 @@ In VS Code, open a terminal.
 Use the commands below to activate .venv, and run the generator as a module. 
 To learn more about why we run our Python file as a module, see [PYTHON-PKG-IMPORTS](docs/PYTHON-PKG-IMPORTS.md) 
 
-Windows PowerShell:
 
-```shell
-.venv\Scripts\activate
-py -m producers.basic_producer_case
-```
-
-Mac/Linux:
 ```zsh
 source .venv/bin/activate
 python3 -m producers.basic_producer_case
@@ -84,16 +80,34 @@ This project has a consumer that reads and processes our own log file as log mes
 In VS Code, open a NEW terminal in your root project folder. 
 Use the commands below to activate .venv, and run the file as a module. 
 
-Windows:
-```shell
-.venv\Scripts\activate
-py -m consumers.basic_consumer_case.py
-```
-
-Mac/Linux:
 ```zsh
 source .venv/bin/activate
 python3 -m consumers.basic_consumer_case.py
+```
+## Task 6. Created a new Producer
+
+Began this task by copying and pasting Dr. Case's producer information onto a new python file.
+From there I made changes to create my own producer.
+
+Then ran the file to make sure everything was working correctly.
+Be sure to git commit afterwards
+
+```zsh
+source .venv/bin/activate
+python3 -m producers.basic_producer_nollette.py
+```
+
+## Task 7. Created a new Consumer
+
+Began this task by copying and pasting Cr. Case's consumer information onto a new python file.
+From there I made my own changes so that my consumer would align with the producer.
+
+Then ran the file in a seperate terminal to make sure everyting was working correctly.
+Be sure to git commit afterwards
+
+```zsh
+source .venv/bin/activate
+python3 -m consumers.basic_consumer_nollette.py
 ```
 
 ## Save Space
